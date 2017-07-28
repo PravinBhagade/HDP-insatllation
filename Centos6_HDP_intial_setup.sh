@@ -1,3 +1,4 @@
+#!/bin/bash
 
 #setting passwordless ssh for server
 echo "setting passwordless ssh for server"
