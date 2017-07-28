@@ -26,7 +26,7 @@ echo never > /sys/kernel/mm/redhat_transparent_hugepage/enabled
 echo never > /sys/kernel/mm/redhat_transparent_hugepage/defrag
 
 
-echo "Ambari repo:
+echo "Ambari repo"
 echo "https://docs.hortonworks.com/HDPDocuments/Ambari-2.5.1.0/bk_ambari-installation/content/ambari_repositories.html"
 echo
 echo "HDP repo"
